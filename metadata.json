@@ -1,0 +1,6 @@
+{
+  "name": "Quick-Bite University - Pedidos & Despacho",
+  "description": "Sistema de pedidos, fila virtual y despacho universitario implementado con Clean Architecture, SOLID, Beca JUNAEB y Webpay Plus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
